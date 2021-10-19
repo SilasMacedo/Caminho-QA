@@ -1,4 +1,4 @@
-package helloWord;
+package zeroHelloWord;
 
 public class HelloWord {
 

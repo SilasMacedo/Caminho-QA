@@ -1,4 +1,4 @@
-package variaveis;
+package umVariaveis;
 
 public class Variaveis {
 
@@ -10,6 +10,9 @@ public class Variaveis {
 				
 		numeroInteiro = 10;
 		System.out.println("O numero é: " +numeroInteiro);
+		
+		numeroInteiro = 20;
+		
 	
 		System.out.println("A variavel do tipo inteiro pode receber " +numeroInteiro);
 		System.out.println("A variavel do tipo double é " +numeroQuebrado);
