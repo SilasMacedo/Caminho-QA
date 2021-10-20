@@ -30,7 +30,10 @@ public class AprendendoIF {
 		System.out.println("Infelizmente voce nao atingiu a media. Tente novamento no proximo ano.");
 		}
 	}
+
 }
+
+
 	
 
 
